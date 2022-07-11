@@ -1,0 +1,23 @@
+{
+  "name": "acs-3310-final-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dylanplayer/acs-3310-final-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dylanplayer/acs-3310-final-test/issues"
+  },
+  "homepage": "https://github.com/dylanplayer/acs-3310-final-test#readme",
+  "dependencies": {
+    "@dylanplayer/acs-3310-final": "^1.0.1"
+  }
+}
